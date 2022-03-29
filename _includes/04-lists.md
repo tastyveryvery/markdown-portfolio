@@ -1,1 +1,7 @@
-Replace this with a list of your favorite things.
+1. Ordered list
+2. is interesting
+  1. idk if this gonna work
+
+* meanwhile
+* this I'm sure will work
+  - certainly?
