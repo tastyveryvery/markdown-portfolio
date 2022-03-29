@@ -1,1 +1,3 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+AAGH I tried to sneak through the door man! Can't make it. Can't make it.
+*Sh#t's stuck. Outta my way son! DOOR STUCK! **DOOR STUCK!***
+**PLEASE! I BEG YOU!** We're dead. You're a genuine \[expletive\].
